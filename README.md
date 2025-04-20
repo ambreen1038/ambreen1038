@@ -7,8 +7,8 @@
 
 ---
 
-- 🔭 I’m currently working on **SmartML**
-- 🌱 I’m currently learning **Next.js**
+-  I’m currently working on **SmartML**
+-  I’m currently learning **Next.js**
 
 ---
 
