@@ -15,28 +15,32 @@
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="mailto:ambreenhabib.tech@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Email-@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ambreen-habib-9977972a3/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-AmbreenHabib-teal?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-<div align="center">
-
-| 💻 Languages | ⚙️ Frameworks | 🧰 Tools |
-|-------------|---------------|---------|
-| ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![React](https://img.icons8.com/officel/40/react.png) React | ![Git](https://img.icons8.com/color/48/000000/git.png) Git |
-| ![JavaScript](https://img.icons8.com/color/48/javascript.png) JS | ![Django](https://img.icons8.com/color/48/000000/django.png) Django | ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux |
-| ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png) C++ | ![Next.js](https://img.icons8.com/ios-filled/50/000000/nextjs.png) Next.js | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code |
-| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML5 | ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS | ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) AWS |
-| ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS3 | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) Bootstrap | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) MongoDB |
-| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) C | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) MySQL |
-
-</div>
+<h3 align="center">🛠️ Tools & Technologies:</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ---
 
