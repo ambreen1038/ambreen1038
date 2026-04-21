@@ -5,12 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ambreen1038&label=Profile%20Views&color=brightgreen&style=flat-square" alt="ambreen1038" />
 </p>
 
----
 
--  I’m currently working on **SmartML**
--  I’m currently learning **Next.js**
-
----
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
@@ -31,7 +26,6 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" style="margin: 5px;">
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" style="margin: 5px;">
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin: 5px;">
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 5px;">
