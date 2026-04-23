@@ -77,7 +77,7 @@ AutoML platform — upload a dataset, select a target column, let AI train & com
 ### 📝 NoteVerse
 Production-quality secure notes app with auth, real-time sync, and a clean responsive UI. Built end-to-end from scratch.
 
-**React · Supabase · PostgreSQL**
+**React.js · Node.js · PostgreSQL · JWT**
 
 [![Repo](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/ambreen1038/NoteVerse)
 
