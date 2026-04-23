@@ -64,7 +64,7 @@ AI-powered resume match scoring, ATS analysis, skill gap detection & bullet-poin
 ### 🤖 SmartML
 AutoML platform — upload a dataset, select a target column, let AI train & compare multiple models. No ML knowledge needed.
 
-**React · FastAPI · scikit-learn · Python**
+**Next.js · FastAPI · AWS Lambda · AutoML · Python**
 
 [![Live](https://img.shields.io/badge/▶%20Live%20Demo-6366f1?style=for-the-badge)](https://www.smartml.tech/)
 [![Repo](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/ambreen1038/SmartML)
@@ -87,7 +87,7 @@ Production-quality secure notes app with auth, real-time sync, and a clean respo
 ### ⚖️ Legal Case Summarizer
 AI that reads lengthy legal documents and outputs concise structured summaries — saving hours of manual review.
 
-**Python · NLP · FastAPI**
+**Python · Hugging Face · BART · ROUGE**
 
 [![Repo](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/ambreen1038)
 
