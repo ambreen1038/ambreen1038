@@ -114,6 +114,7 @@ AI that reads lengthy legal documents and outputs concise structured summaries â
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-22c55e?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Integrated-a855f7?style=for-the-badge&logo=openai&logoColor=white)
 
 #### Databases & Cloud
