@@ -87,7 +87,7 @@ Production-quality secure notes app with auth, real-time sync, and a clean respo
 ### ⚖️ Legal Case Summarizer
 AI that reads lengthy legal documents and outputs concise structured summaries — saving hours of manual review.
 
-**Python · Hugging Face · BART · ROUGE**
+**NLP · Hugging Face · BART · ROUGE**
 
 [![Repo](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/ambreen1038)
 
