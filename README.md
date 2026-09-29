@@ -26,7 +26,6 @@ class Ambreen:
     niche   = "AI-integrated web apps"
     stack   = ["React", "FastAPI", "Python"]
     shipped = ["AI Resume Analyzer 🎯", "SmartML 🤖", "NoteVerse 📝"]
-    company = "Spacebar  →  React + Supabase (Production)"
     motto   = "UI design → API → Deployment → Done ✅"
     status  = "Open to full-time & freelance 🚀"
 <br/>
