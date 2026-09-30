@@ -6,10 +6,10 @@
 
 <div align="center">
 
-![Portfolio (→ img.shields.io)](https://ambreen-habib-portfolio.vercel.app)
-![LinkedIn (→ img.shields.io)](https://www.linkedin.com/in/ambreen-habib-9977972a3/)
-![Email (→ img.shields.io)](mailto:ambreenhabib.tech@gmail.com)
-!Views (→ komarev.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View%20Live-6366f1?style=for-the-badge)](https://ambreen-habib-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambreen-habib-9977972a3/)
+[![Email](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambreenhabib2002@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=ambreen1038&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
 
 </div>
 
@@ -21,20 +21,15 @@
 
 ## 👩‍💻 About Me
 
-class Ambreen:
-    role    = "AI-Powered Full-Stack Developer"
-    niche   = "AI-integrated web apps"
-    stack   = ["React", "FastAPI", "Python"]
-    shipped = ["AI Resume Analyzer 🎯", "SmartML 🤖", "NoteVerse 📝"]
-    motto   = "UI design → API → Deployment → Done ✅"
-    status  = "Open to full-time & freelance 🚀"
+I'm a Full-Stack Developer who builds AI-integrated web applications — React and Next.js on the front end, FastAPI and Node.js underneath, with machine learning and LLM features as core functionality rather than a surface-level add-on. Most recently, I shipped production features at **Spacebar Technologies** (Nov 2025 – Jun 2026). My personal projects hold the same bar: my latest, **InvoiceFlow**, extracts and validates invoice data with Gemini and ships with a published evaluation of its own accuracy — not just a demo, a measurement.
+
 <br/>
 
-- 🤖 I build **real AI products**, not just CRUD apps
-- 🚀 Latest: **AI Resume Analyzer (→ ai-resume-analyzer-amber.vercel.app)** — live & deployed
-- 🏢 Shipped production features at **Spacebar**
-- 💡 End-to-end ownership: design → code → deploy
-- 📫 Reach me: **ambreenhabib.tech@gmail.com**
+- 🤖 I build products where AI is core functionality, not a checkbox
+- 📄 Latest: **[InvoiceFlow](https://github.com/ambreen1038/invoiceflow)** — AI invoice processing with a measured accuracy report
+- 🏢 Most recently shipped production features at **Spacebar Technologies** (Nov 2025 – Jun 2026)
+- 💡 End-to-end ownership: design → implementation → deployment
+- 📫 Reach me: **ambreenhabib2002@gmail.com**
 
 <br clear="right"/>
 
@@ -46,13 +41,36 @@ class Ambreen:
 <tr>
 <td width="50%" valign="top">
 
+### 📄 InvoiceFlow
+AI-powered invoice processing platform, built solo end-to-end. Gemini-based extraction, automated arithmetic validation, duplicate detection, and a published evaluation suite measuring real extraction accuracy.
+
+**Next.js · FastAPI · Supabase · PostgreSQL · Gemini**
+
+[![Repo](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/ambreen1038/invoiceflow)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 CreatorLink
+A B2B creator-marketplace concept rebuilt end-to-end in 24 hours using AI coding agents — prompts included in the repo. Row Level Security, real-time messaging, AI-assisted creator matching.
+
+**Next.js · TypeScript · Supabase · Gemini**
+
+[![Live](https://img.shields.io/badge/▶%20Live%20Demo-6366f1?style=for-the-badge)](https://naano-rebuild-final.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/ambreen1038/naano-rebuild)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎯 AI Resume Analyzer
 AI-powered resume match scoring, ATS analysis, skill gap detection & bullet-point rewrites. Quick Scan mode detects your role with zero input.
 
-**React · FastAPI · Python · AI**
+**React · FastAPI · Python · Groq**
 
-![Live (→ img.shields.io)](https://ai-resume-analyzer-amber.vercel.app)
-![Repo (→ img.shields.io)](https://github.com/ambreen1038/ai-resume-analyzer)
+[![Live](https://img.shields.io/badge/▶%20Live%20Demo-6366f1?style=for-the-badge)](https://ai-resume-analyzer-ecru-gamma.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/ambreen1038/ai-resume-analyzer)
 
 </td>
 <td width="50%" valign="top">
@@ -60,10 +78,10 @@ AI-powered resume match scoring, ATS analysis, skill gap detection & bullet-poin
 ### 🤖 SmartML
 AutoML platform — upload a dataset, select a target column, let AI train & compare multiple models. No ML knowledge needed.
 
-**Next.js · FastAPI · AWS Lambda · AutoML · Python**
+**Next.js · FastAPI · AWS · AutoML · Python**
 
-![Live (→ img.shields.io)](https://www.smartml.tech/)
-![Repo (→ img.shields.io)](https://github.com/ambreen1038/SmartML)
+[![Live](https://img.shields.io/badge/▶%20Live%20Demo-6366f1?style=for-the-badge)](https://www.smartml.tech/)
+[![Private Repo](https://img.shields.io/badge/Source-Private-555?style=for-the-badge)]()
 
 </td>
 </tr>
@@ -71,11 +89,11 @@ AutoML platform — upload a dataset, select a target column, let AI train & com
 <td width="50%" valign="top">
 
 ### 📝 NoteVerse
-Production-quality secure notes app with auth, real-time sync, and a clean responsive UI. Built end-to-end from scratch.
+Production-quality secure notes app with auth, dynamic search, and a clean responsive UI. Built end-to-end during a 10Pearls internship.
 
 **React.js · Node.js · PostgreSQL · JWT**
 
-![Repo (→ img.shields.io)](https://github.com/ambreen1038/NoteVerse)
+[![Repo](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/ambreen1038/ambreen-mern-10pshine)
 
 </td>
 <td width="50%" valign="top">
@@ -85,7 +103,7 @@ AI that reads lengthy legal documents and outputs concise structured summaries �
 
 **NLP · Hugging Face · BART · ROUGE**
 
-![Repo (→ img.shields.io)](https://github.com/ambreen1038)
+[![Repo](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/ambreen1038/Legal-Case-Summerization)
 
 </td>
 </tr>
@@ -96,37 +114,33 @@ AI that reads lengthy legal documents and outputs concise structured summaries �
 ## 🛠️ Tech Stack
 
 #### Frontend
-!React (→ img.shields.io)
-!Next.js (→ img.shields.io)
-!JavaScript (→ img.shields.io)
-!Tailwind (→ img.shields.io)
-!Bootstrap (→ img.shields.io)
-!HTML5 (→ img.shields.io)
-!CSS3 (→ img.shields.io)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Backend & AI
-!Python (→ img.shields.io)
-!FastAPI (→ img.shields.io)
-!Node.js (→ img.shields.io)
-!scikit-learn (→ img.shields.io)
-!NLP (→ img.shields.io)
-!Hugging Face (→ img.shields.io)
-!AI/ML (→ img.shields.io)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 #### Databases & Cloud
-!PostgreSQL (→ img.shields.io)
-!MySQL (→ img.shields.io)
-!MongoDB (→ img.shields.io)
-!Supabase (→ img.shields.io)
-!Firebase (→ img.shields.io)
-!AWS (→ img.shields.io)
-!Vercel (→ img.shields.io)
-!Render (→ img.shields.io)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 
 #### Tools
-!Git (→ img.shields.io)
-!Linux (→ img.shields.io)
-!Retool (→ img.shields.io)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -153,11 +167,10 @@ AI that reads lengthy legal documents and outputs concise structured summaries �
 
 *I turn ideas into shipped products — fast.*
 
-**→** [ambreenhabib.tech@gmail.com](mailto:ambreenhabib.tech@gmail.com)
+**→** [ambreenhabib2002@gmail.com](mailto:ambreenhabib2002@gmail.com)
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
-
